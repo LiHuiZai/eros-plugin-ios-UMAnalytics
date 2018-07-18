@@ -1,2 +1,2 @@
 # eros-plugin-ios-UMAnalytics
-Eros 友盟分享插件
+Eros 友盟统计插件
