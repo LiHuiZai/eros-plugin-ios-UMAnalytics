@@ -1,7 +1,7 @@
 # coding: utf-8
 Pod::Spec.new do |s|
   s.name         = "ErosPluginUMAnalytics"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "ErosPluginUMAnalytics Source ."
   s.homepage     = 'https://github.com/bmfe/eros-plugin-ios-UMAnalytics'
   s.license      = "MIT"
