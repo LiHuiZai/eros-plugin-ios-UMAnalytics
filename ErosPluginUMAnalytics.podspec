@@ -1,7 +1,7 @@
 # coding: utf-8
 Pod::Spec.new do |s|
   s.name         = "ErosPluginUMAnalytics"
-  s.version      = "1.0.1"
+  s.version      = "1.1.0"
   s.summary      = "ErosPluginUMAnalytics Source ."
   s.homepage     = 'https://github.com/bmfe/eros-plugin-ios-UMAnalytics'
   s.license      = "MIT"
@@ -12,6 +12,6 @@ Pod::Spec.new do |s|
 
   s.source_files = "Source/*.{h,m,mm}"
   s.requires_arc = true
-  s.dependency 'UMCAnalytics', '5.5.0'
+  # s.dependency 'UMCAnalytics', '5.5.0'
 
 end
