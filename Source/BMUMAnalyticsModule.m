@@ -8,7 +8,7 @@
 #import "BMUMAnalyticsModule.h"
 #import <WeexPluginLoader/WeexPluginLoader/WeexPluginLoader.h>
 #import <UMCCommon/UMCommon/UMCommon.h>
-#import <UMCAnalytics/UMAnalytics/MobClick.h>
+#import <UMCCommon/UMCommon/MobClick.h>
 
 WX_PlUGIN_EXPORT_MODULE(bmUMAnalytics, BMUMAnalyticsModule)
 
